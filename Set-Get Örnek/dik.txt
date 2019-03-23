@@ -1,3 +1,0 @@
-dikdörtgen hesabı yaptığımız
-örneğimizi gönderilen parametrenin negatif olması durumnu deneteleyen ve bu 
-durumda sıfır atayan bir kısıtı getter ve setter yöntemleriyle 
