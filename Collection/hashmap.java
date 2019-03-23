@@ -7,17 +7,17 @@ import java.util.Set;
 public class dd {
 	public static void ara(HashMap<Integer, String> gelen, int numara){
 		if(gelen.containsKey(numara)){
-			System.out.println(numara + " numaralý öðrenci: " + gelen.get(numara) + ".");
+			System.out.println(numara + " numaralÃ½ Ã¶Ã°renci: " + gelen.get(numara) + ".");
 		}
 		else
-			System.out.println(numara + " numaralý öðrenci yoktur.");
+			System.out.println(numara + " numaralÃ½ Ã¶Ã°renci yoktur.");
 	}
 	
 	public static void main(String[] args) {
 		HashMap<Integer, String> ogrenci = new HashMap<Integer, String>();
 		ogrenci.put(17060788, "Mehmet Akif ARSLAN");
-	    ogrenci.put(17060244, "Gökhan Veyisoðlu");
-	    ogrenci.put(17067388, "Mehmet Kamil Torunoðlu");
+	    ogrenci.put(17060244, "GÃ¶khan VeyisoÃ°lu");
+	    ogrenci.put(17067388, "Mehmet Kamil TorunoÃ°lu");
 	    System.out.println(ogrenci);
 	    ara(ogrenci, 11857424);
 	}
