@@ -39,7 +39,7 @@ public class dd {
 				System.out.println(ara(ll, lol));
 			}
 			else
-				System.out.println("Böyle bir eleman yok!");
+				System.out.println("BÃ¶yle bir eleman yok!");
 			
 	}
 
