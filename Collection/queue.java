@@ -10,7 +10,7 @@ public class dd {
 		krk.offer("Zehra");
 		krk.offer("Fatih");
 		krk.offer("Hakan");
-		System.out.println("Kuyruk Boşaltılıyor");
+		System.out.println("Kuyruk BoÃ¾altÃ½lÃ½yor");
 		for (int i = 0; i < 6; i++){
 			System.out.println(krk.poll() + " ");
 		}
