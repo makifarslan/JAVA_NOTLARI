@@ -1,14 +1,14 @@
-#sekil isimli soyut sinifi yaziniz. Bu sinifin içerigi:
--isim degiskeni: String tipindedir.
--isimBelirle metodu: Amaci geometrik seklin ismini belirlemektir. String tipinde parametre alir ve bu parametreyi isim degiskenine atar.
--isimGetir metodu: Amaci seklin ismini döndürmektir. Parametresizdir.
--alanHesap metodu: Soyut bir metod olup double deger döndürmektedir.
+●sekil isimli soyut sınıfı yazınız. Bu sınıfın içerigi:
+-isim değişkeni: String tipindedir.
+-isimBelirle metodu: Amacı geometrik şeklin ismini belirlemektir. String tipinde parametre alır ve bu parametreyi isim değişkenine atar.
+-isimGetir metodu: Amacı şeklin ismini döndürmektir. Parametresizdir.
+-alanHesap metodu: Soyut bir metod olup double değer döndürmektedir.
 
-#ucgen, yamuk ve daire isimli siniflari sekil sinifindan kalitim yoluyla olusturunuz. Bu siniflarin içerigi:
--yukseklik ve taban degiskenleri: ucgen sinifina ait double tipindeki degiskenlerdir.
+●ucgen, yamuk ve daire isimli siniflari sekil sinifindan kalıtım yoluyla oluşturunuz. Bu sınıfların içerigi:
+-yukseklik ve taban değişkenleri: ucgen sınıfına ait double tipindeki değişkenlerdir.
 -alt, ust ve h degiskenleri: yamuk sinifina ait double tipindeki degiskenlerdir.
--yaricap ve pi degiskenleri: daire sinifana ait double tipindeki degiskenlerdir.
--bilgi metodu: bütün siniflarda ilgili degiskenleri parametre olarak alarak nesnesinin degerlerine atama yapar. Ayrica isimBelirle metoduna geometrik seklin bilgisini gönderir.
--alanHesap metodu: geometrik seklin alanini hesaplayarak degerini döndürür.
+-yaricap ve pi değişkenleri: daire sınıfına ait double tipindeki değişkenlerdir.
+-bilgi metodu: bütün sınıflarda ilgili değişkenleri parametre olarak alarak nesnesinin değerlerine atama yapar. Ayrıca isimBelirle metoduna geometrik şeklin bilgisini gönderir.
+-alanHesap metodu: geometrik şeklin alanını hesaplayarak değerini döndürür.
 
-#SoyutSinifOrnegi sinifini yaziniz. Sinif ana metodu içermekte olup tüm siniflardan bir nesne yaratmaktadir. Nesnelere gerekli parametreleri göndererek nesnelerin isim bilgisini ve alan hesabini alarak ekrana yazdirir.
+●SoyutSinifOrnegi sınıfını yazınız. Sınıf ana metodu içermekte olup tüm sınıflardan bir nesne yaratmaktadır. Nesnelere gerekli parametreleri göndererek nesnelerin isim bilgisini ve alan hesabını alarak ekrana yazdirir.
