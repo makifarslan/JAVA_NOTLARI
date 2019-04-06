@@ -1,4 +1,3 @@
-
 public class dikdortgen {
 	private double a;
 	private double b;
@@ -15,6 +14,6 @@ public class dikdortgen {
 		this.b = b;
 	}
 	public double alan(){
-	return a*b;
+		return a * b;
 	}
 }
