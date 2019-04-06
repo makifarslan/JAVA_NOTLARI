@@ -1,4 +1,3 @@
-
 public class dhesap {
 	public static void main(String[] args){
 	dikdortgen d = new dikdortgen();
