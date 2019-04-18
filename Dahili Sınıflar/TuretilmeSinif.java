@@ -26,7 +26,7 @@ class TuretilmeSinif extends Anasinif{
         }
     }
     public static void main(String[] args) {
-        TretilmeSinif.BB tbb = new TretilmeSinif().new BB();
-        TretilmeSinif.CC tcc = new TretilmeSinif().new CC(6, 9);
+        TuretilmeSinif.BB tbb = new TuretilmeSinif().new BB();
+        TuretilmeSinif.CC tcc = new TuretilmeSinif().new CC(6, 9);
     }
 }
